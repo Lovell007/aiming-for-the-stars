@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react'
 import { useParams } from 'react-router'
 import { Link } from 'react-router-dom'
 import { getPlanetCard } from "../services/api"
-import textures from "../textures.json"
 import PlanetRender from './PlanetRender'
 
 

@@ -58,8 +58,8 @@ export default function NewPlanet() {
           value={selectedTexture}
           onChange={(e) => setSelectedTexture(e.target.value)}
         >
-          {textures.map((texture) => (
-            <option>{texture.textureName}</option>
+          {textures.map((texture, index) => (
+            <option key={index}>{texture.textureName}</option>
           ))}
         </select>
         <br />

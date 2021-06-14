@@ -20,7 +20,7 @@ export default function SolarSystem() {
     
 
     <div>
-      {planets?.map((planet) => {
+      {planets?.forEach((planet) => {
         if (planet.fields.solarSystem === 'Titan AU') {
           titanAU.push(planet)
         } else if(planet.fields.solarSystem === 'Asgard') {

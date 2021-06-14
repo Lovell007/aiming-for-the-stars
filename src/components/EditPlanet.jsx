@@ -27,7 +27,7 @@ export default function EditPlanet() {
       setSolarSystem(solarSystem)
     }
     getPlanetdata()
-  }, [])
+  }, [id])
 
   const handleSubmit = async (e) => {
     e.preventDefault()
