@@ -1,0 +1,641 @@
+[
+  {
+    "textureName": "Abstract01",
+    "map": "textures/Abstract01/Abstract_001_COLOR.jpg",
+    "normalMap": "textures/Abstract01/Abstract_001_NRM.jpg",
+    "displacementMap": "textures/Abstract01/Abstract_001_DISP.png",
+    "roughnessMap": "",
+    "aoMap": "textures/Abstract01/Abstract_001_OCC.jpg",
+    "metalnessMap": "textures/Abstract01/Abstract_001_SPEC.jpg"
+  },
+  {
+    "textureName": "Abstract02",
+    "map": "textures/Abstract02/Abstract_002_COLOR.jpg",
+    "normalMap": "textures/Abstract02/Abstract_002_NRM.jpg",
+    "displacementMap": "textures/Abstract02/Abstract_002_DISP.png",
+    "roughnessMap": "",
+    "aoMap": "textures/Abstract02/Abstract_002_OCC.jpg",
+    "metalnessMap": "textures/Abstract02/Abstract_002_SPEC.jpg"
+  },
+  {
+    "textureName": "Abstract03",
+    "map": "textures/Abstract03/Abstract_003_COLOR.jpg",
+    "normalMap": "textures/Abstract03/Abstract_003_NRM.jpg",
+    "displacementMap": "textures/Abstract03/Abstract_003_DISP.png",
+    "roughnessMap": "",
+    "aoMap": "textures/Abstract03/Abstract_003_OCC.jpg",
+    "metalnessMap": "textures/Abstract03/Abstract_003_SPEC.jpg"
+  },
+  {
+    "textureName": "Abstract04",
+    "map": "textures/Abstract04/Abstract_010_basecolor.jpg",
+    "normalMap": "textures/Abstract04/Abstract_010_normal.jpg",
+    "displacementMap": "textures/Abstract04/Abstract_010_height.png",
+    "roughnessMap": "",
+    "aoMap": "textures/Abstract04/Abstract_010_ambientOcclusion.jpg",
+    "metalnessMap": "textures/Abstract04/Abstract_010_roughness.jpg"
+  },
+  {
+    "textureName": "Alien",
+    "map": "textures/Alien/Bark_005_baseColor.jpg",
+    "normalMap": "textures/Alien/Bark_005_normal.jpg",
+    "displacementMap": "textures/Alien/Bark_005_height.png",
+    "roughnessMap": "",
+    "aoMap": "textures/Alien/Bark_005_ambientOcclusion.jpg",
+    "metalnessMap": "textures/Alien/Bark_005_roughness.jpg"
+  },
+  {
+    "textureName": "Alien-Flesh",
+    "map": "textures/Alien-Flesh/Alien_Flesh_001_color.jpg",
+    "normalMap": "textures/Alien-Flesh/Alien_Flesh_001_norm.jpg",
+    "displacementMap": "textures/Alien-Flesh/Alien_Flesh_001_disp.jpg",
+    "roughnessMap": "",
+    "aoMap": "textures/Alien-Flesh/Alien_Flesh_001_occ.jpg",
+    "metalnessMap": "textures/Alien-Flesh/Alien_Flesh_001_spec.jpg"
+  },
+  {
+    "textureName": "Alien-Flesh",
+    "map": "textures/Alien-Flesh/Alien_Flesh_001_color.jpg",
+    "normalMap": "textures/Alien-Flesh/Alien_Flesh_001_norm.jpg",
+    "displacementMap": "textures/Alien-Flesh/Alien_Flesh_001_disp.jpg",
+    "roughnessMap": "",
+    "aoMap": "textures/Alien-Flesh/Alien_Flesh_001_occ.jpg",
+    "metalnessMap": "textures/Alien-Flesh/Alien_Flesh_001_spec.jpg"
+  },
+  {
+    "textureName": "Alien-Fungus",
+    "map": "textures/Alien-Fungus/Mushroom_Top_001_basecolor.jpg",
+    "normalMap": "textures/Alien-Fungus/Mushroom_Top_001_normal.jpg",
+    "displacementMap": "textures/Alien-Fungus/Mushroom_Top_001_height.png",
+    "roughnessMap": "",
+    "aoMap": "textures/Alien-Fungus/Mushroom_Top_001_ambientOcclusion.jpg",
+    "metalnessMap": "textures/Alien-Fungus/Mushroom_Top_001_roughness.jpg"
+  },
+  {
+    "textureName": "Alien-Gods",
+    "map": "textures/Alien-Gods/Metal_Plate_013_basecolor.jpg",
+    "normalMap": "textures/Alien-Gods/Metal_Plate_013_normal.jpg",
+    "displacementMap": "textures/Alien-Gods/Metal_Plate_013_height.png",
+    "roughnessMap": "textures/Alien-Gods/Metal_Plate_013_roughness.jpg",
+    "aoMap": "textures/Alien-Gods/Metal_Plate_013_ambientOcclusion.jpg",
+    "metalnessMap": "textures/Alien-Gods/Metal_Plate_013_metallic.jpg"
+  },
+  {
+    "textureName": "Alien-Metal",
+    "map": "textures/Alien-Metal/Alien_Metal_002_COLOR.jpg",
+    "normalMap": "textures/Alien-Metal/Alien_Metal_002_NORM.jpg",
+    "displacementMap": "textures/Alien-Metal/Alien_Metal_002_DISP.png",
+    "roughnessMap": "textures/Alien-Metal/Alien_Metal_002_ROUGH.jpg",
+    "aoMap": "textures/Alien-Metal/Alien_Metal_002_OCC.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Alien-Muscle",
+    "map": "textures/Alien-Muscle/Alien_Muscle_001_COLOR.jpg",
+    "normalMap": "textures/Alien-Muscle/Alien_Muscle_001_NORM.jpg",
+    "displacementMap": "textures/Alien-Muscle/Alien_Muscle_001_DISP.png",
+    "roughnessMap": "",
+    "aoMap": "textures/Alien-Muscle/Alien_Muscle_001_OCC.jpg",
+    "metalnessMap": "textures/Alien-Muscle/Alien_Muscle_001_SPEC.jpg"
+  },
+  {
+    "textureName": "Alien-Stone",
+    "map": "textures/Alien-Stone/Rocks_Hexagons_001_basecolor.jpg",
+    "normalMap": "textures/Alien-Stone/Rocks_Hexagons_001_normal.jpg",
+    "displacementMap": "textures/Alien-Stone/Rocks_Hexagons_001_height.png",
+    "roughnessMap": "textures/Alien-Stone/Rocks_Hexagons_001_roughness.jpg",
+    "aoMap": "textures/Alien-Stone/Rocks_Hexagons_001_ambientOcclusion.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Alien01",
+    "map": "textures/Alien01/Bacteria_001_COLOR.jpg",
+    "normalMap": "textures/Alien01/Bacteria_001_NORM.jpg",
+    "displacementMap": "textures/Alien01/Bacteria_001_DISP.png",
+    "roughnessMap": "",
+    "aoMap": "textures/Alien01/Bacteria_001_OCC.jpg",
+    "metalnessMap": "textures/Alien01/Bacteria_001_SPEC.jpg"
+  },
+  {
+    "textureName": "Alien02",
+    "map": "textures/Alien02/Greeble_Techno_002_basecolor.jpg",
+    "normalMap": "textures/Alien02/Greeble_Techno_002_normal.jpg",
+    "displacementMap": "textures/Alien02/Greeble_Techno_002_height.png",
+    "roughnessMap": "textures/Alien02/Greeble_Techno_002_roughness.jpg",
+    "aoMap": "textures/Alien02/Greeble_Techno_002_ambientOcclusion.jpg",
+    "metalnessMap": "textures/Alien02/Greeble_Techno_002_metallic.jpg"
+  },
+  {
+    "textureName": "Alien03",
+    "map": "textures/Alien03/Abstract_Organic_003_basecolor.jpg",
+    "normalMap": "textures/Alien03/Abstract_Organic_003_normal.jpg",
+    "displacementMap": "textures/Alien03/Abstract_Organic_003_height.png",
+    "roughnessMap": "textures/Alien03/Abstract_Organic_003_roughness.jpg",
+    "aoMap": "textures/Alien03/Abstract_Organic_003_ambientOcclusion.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Alien04",
+    "map": "textures/Alien04/Metal_scratched_007_basecolor.jpg",
+    "normalMap": "textures/Alien04/Metal_scratched_007_normal.jpg",
+    "displacementMap": "textures/Alien04/Metal_scratched_007_height.png",
+    "roughnessMap": "textures/Alien04/Metal_scratched_007_roughness.jpg",
+    "aoMap": "textures/Alien04/Metal_scratched_007_ambientOcclusion.jpg",
+    "metalnessMap": "textures/Alien04/Metal_scratched_007_metallic.jpg"
+  },
+  {
+    "textureName": "Alien05",
+    "map": "textures/Alien05/Abstract_009_basecolor.jpg",
+    "normalMap": "textures/Alien05/Abstract_009_normal.jpg",
+    "displacementMap": "textures/Alien05/Abstract_009_height.png",
+    "roughnessMap": "",
+    "aoMap": "textures/Alien05/Abstract_009_ambientOcclusion.jpg",
+    "metalnessMap": "textures/Alien05/Abstract_009_roughness.jpg"
+  },
+  {
+    "textureName": "Alien06",
+    "map": "textures/Alien06/Organic_abstract_001_COLOR.jpg",
+    "normalMap": "textures/Alien06/Organic_abstract_001_NORM.jpg",
+    "displacementMap": "textures/Alien06/Organic_abstract_001_DISP.png",
+    "roughnessMap": "textures/Alien06/Organic_abstract_001_ROUGH.jpg",
+    "aoMap": "textures/Alien06/Organic_abstract_001_OCC.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Blazen",
+    "map": "textures/Blazen/Surface_Imperfections_Dirt_001_basecolor.jpg",
+    "normalMap": "textures/Blazen/Surface_Imperfections_Dirt_001_normal.jpg",
+    "displacementMap": "textures/Blazen/Surface_Imperfections_Dirt_001_height.jpg",
+    "roughnessMap": "textures/Blazen/Surface_Imperfections_Dirt_001_roughness.jpg",
+    "aoMap": "textures/Blazen/Surface_Imperfections_Dirt_001_ambientOcclusion.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Bones",
+    "map": "textures/Bones/Bone_structure_001_COLOR.jpg",
+    "normalMap": "textures/Bones/Bone_structure_001_NRM.jpg",
+    "displacementMap": "textures/Bones/Bone_structure_001_DISP.jpg",
+    "roughnessMap": "",
+    "aoMap": "textures/Bones/Bone_structure_001_OCC.jpg",
+    "metalnessMap": "textures/Bones/Bone_structure_001_SPEC.jpg"
+  },
+  {
+    "textureName": "Crystal-Metal",
+    "map": "textures/Crystal-Metal/Crystal_Metal_001_COLOR.jpg",
+    "normalMap": "textures/Crystal-Metal/Crystal_Metal_001_NORM.jpg",
+    "displacementMap": "textures/Crystal-Metal/Crystal_Metal_001_DISP.png",
+    "roughnessMap": "textures/Crystal-Metal/Crystal_Metal_001_ROUGH.jpg",
+    "aoMap": "textures/Crystal-Metal/Crystal_Metal_001_OCC.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Crystal01",
+    "map": "textures/Crystal01/Crystal_004_basecolor.jpg",
+    "normalMap": "textures/Crystal01/Crystal_004_normal.jpg",
+    "displacementMap": "textures/Crystal01/Crystal_004_height.png",
+    "roughnessMap": "textures/Crystal01/Crystal_004_roughness.jpg",
+    "aoMap": "textures/Crystal01/Crystal_004_ambientOcclusion.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Crystal02",
+    "map": "textures/Crystal02/Crystal_003_COLOR.jpg",
+    "normalMap": "textures/Crystal02/Crystal_003_NORM.jpg",
+    "displacementMap": "textures/Crystal02/Crystal_003_DISP.png",
+    "roughnessMap": "textures/Crystal02/Crystal_003_ROUGH.jpg",
+    "aoMap": "textures/Crystal02/Crystal_003_OCC.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Desolate",
+    "map": "textures/Desolate/Mud_001_baseColor.jpg",
+    "normalMap": "textures/Desolate/Mud_001_normal.jpg",
+    "displacementMap": "textures/Desolate/Mud_001_height.png",
+    "roughnessMap": "textures/Desolate/Mud_001_roughness.jpg",
+    "aoMap": "textures/Desolate/Mud_001_ambientOcclusion.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Desolate02",
+    "map": "textures/Desolate02/Ground_Wet_002_basecolor.jpg",
+    "normalMap": "textures/Desolate02/Ground_Wet_002_normal.jpg",
+    "displacementMap": "textures/Desolate02/Ground_Wet_002_height.png",
+    "roughnessMap": "",
+    "aoMap": "textures/Desolate02/Ground_Wet_002_ambientOcclusion.jpg",
+    "metalnessMap": "textures/Desolate02/Ground_Wet_002_roughness.jpg"
+  },
+  {
+    "textureName": "Desolate03",
+    "map": "textures/Desolate03/Ground_Dirt_007_basecolor.jpg",
+    "normalMap": "textures/Desolate03/Ground_Dirt_007_normal.jpg",
+    "displacementMap": "textures/Desolate03/Ground_Dirt_007_height.png",
+    "roughnessMap": "textures/Desolate03/Ground_Dirt_007_roughness.jpg",
+    "aoMap": "textures/Desolate03/Ground_Dirt_007_ambientOcclusion.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Dirt01",
+    "map": "textures/Dirt/Dirt_006_Base Color.jpg",
+    "normalMap": "textures/Dirt/Dirt_006_Normal.jpg",
+    "displacementMap": "textures/Dirt/Dirt_006_Height.png",
+    "roughnessMap": "textures/Dirt/Dirt_006_Roughness.jpg",
+    "aoMap": "textures/Dirt/Dirt_006_Ambient Occlusion.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Dirt02",
+    "map": "textures/Dirt02/Dirt_005_basecolor.jpg",
+    "normalMap": "textures/Dirt02/Dirt_005_Normal.jpg",
+    "displacementMap": "textures/Dirt02/Dirt_005_Height.png",
+    "roughnessMap": "textures/Dirt02/Dirt_005_Roughness.jpg",
+    "aoMap": "textures/Dirt02/Dirt_005_ambient occlusion.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Fire",
+    "map": "textures/Fire/Lava_005_COLOR.jpg",
+    "normalMap": "textures/Fire/Lava_005_NORM.jpg",
+    "displacementMap": "textures/Fire/Lava_005_DISP.png",
+    "roughnessMap": "",
+    "aoMap": "textures/Fire/Lava_005_OCC.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Gems",
+    "map": "textures/Gems/Incrusted_Gems_001_COLOR.jpg",
+    "normalMap": "textures/Gems/Incrusted_Gems_001_NORM.jpg",
+    "displacementMap": "textures/Gems/Incrusted_Gems_001_DISP.jpg",
+    "roughnessMap": "",
+    "aoMap": "textures/Gems/Incrusted_Gems_001_OCC.jpg",
+    "metalnessMap": "textures/Gems/Incrusted_Gems_001_SPEC.jpg"
+  },
+  {
+    "textureName": "Golden",
+    "map": "textures/Golden/Gold_Nugget_001_COLOR.jpg",
+    "normalMap": "textures/Golden/Gold_Nugget_001_NORM.jpg",
+    "displacementMap": "textures/Golden/Gold_Nugget_001_DISP.png",
+    "roughnessMap": "textures/Golden/Gold_Nugget_001_ROUGH.jpg",
+    "aoMap": "textures/Golden/Gold_Nugget_001_OCC.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "Ground Skull",
+    "map": "textures/Ground Skull/Ground Skull_basecolor.jpg",
+    "normalMap": "textures/Ground Skull/Ground Skull_normal.jpg",
+    "displacementMap": "textures/Ground Skull/Ground Skull_height.png",
+    "roughnessMap": "textures/Ground Skull/Ground Skull_roughness.jpg",
+    "aoMap": "textures/Ground Skull/Ground Skull_ambientOcclusion.jpg",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  },
+  {
+    "textureName": "",
+    "map": "",
+    "normalMap": "",
+    "displacementMap": "",
+    "roughnessMap": "",
+    "aoMap": "",
+    "metalnessMap": ""
+  }
+]
